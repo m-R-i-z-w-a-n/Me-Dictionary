@@ -1,0 +1,1 @@
+ - An online dictionary app which uses [REST API](https://dictionaryapi.dev/) to fetch data from server.
